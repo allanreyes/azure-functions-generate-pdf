@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneratePdf", "azure-functions-generate-pdf\GeneratePdf.csproj", "{10CEA9DC-08A8-4801-9D17-45912DE53AE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10CEA9DC-08A8-4801-9D17-45912DE53AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CEA9DC-08A8-4801-9D17-45912DE53AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CEA9DC-08A8-4801-9D17-45912DE53AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CEA9DC-08A8-4801-9D17-45912DE53AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BA0ADBB-8F2E-4BF5-A1B1-08BBB11A0779}
+	EndGlobalSection
+EndGlobal
